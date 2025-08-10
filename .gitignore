@@ -24,6 +24,11 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
 
 # IDE
 .vscode/
+.idea/
+
+# MongoDB
+/data
